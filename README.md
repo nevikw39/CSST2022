@@ -241,3 +241,7 @@ int main()
 > Can anybody find me somebody to love?
 >
 > **Somebody To Love**, _Queen_
+
+### HackMD 額外功能
+
+請移駕至 [HackMD](https://hackmd.io/@nevikw39/csst2022).
