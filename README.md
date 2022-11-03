@@ -83,7 +83,7 @@ Put any numbe of `-` below a line to make it Setext header 2
 ### Put i `#`s at the beginning of a line to make it atx header i
 ```
 
-#### List
+#### Lists
 
 Markdown 的有序與無序清單非常直觀。注意在最初標準中有序清單總是由 1 開始且其數字並不重要，但現在大部分實作也可以從其他數字開始。
 
@@ -206,17 +206,6 @@ int main()
 > And the running blackberry would adorn the parlours of heaven.
 >
 > _Walt Whitman_
-
-> Each morning I get up I die a little \
-> Can barely stand on my feet \
-> Take a look in the mirror and cry \
-> Lord, what you're doing to me? \
-> I have spent all my years in believing you \
-> But I just can't get no relief, Lord
-> Somebody, somebody \
-> Can anybody find me somebody to love?
->
-> **Somebody To Love**, _Queen_
 ```
 
 ##### Results
@@ -231,16 +220,23 @@ int main()
 >
 > _Walt Whitman_
 
-> Each morning I get up I die a little \
-> Can barely stand on my feet \
-> Take a look in the mirror and cry \
-> Lord, what you're doing to me? \
-> I have spent all my years in believing you \
-> But I just can't get no relief, Lord
-> Somebody, somebody \
-> Can anybody find me somebody to love?
->
-> **Somebody To Love**, _Queen_
+#### Tables
+
+在 Markdowns 中畫表格就沒那麼容易惹⋯⋯
+
+##### Sources
+
+```markdown
+| Column 0 | Column 1 | Column 2 | Column 3 |
+|-|:-|:-:|-:|
+| No alignment specified. | Left | Center | Right |
+```
+
+##### Results
+
+| Column 0 | Column 1 | Column 2 | Column 3 |
+|-|:-|:-:|-:|
+| No alignment specified. | Left | Center | Right |
 
 ### HackMD 額外功能
 
