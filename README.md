@@ -6,7 +6,7 @@ Quick links:
   - 填完之後有 terminal, shell 的 demo codes 以及簡報連結喔
 - [Slido](https://app.sli.do/event/164n12nYfuDgeEHi1thtp9)
 - [上課簡報](CSST2022.pdf)（另一個[連結](https://m110.nthu.edu.tw/~s110062219/CSST2022.pdf)）
-- [點名表單]()
+- [點名表單](https://docs.google.com/forms/d/e/1FAIpQLSfkkwBTJ9Og7jiQXgnjcNE38SbpVp8DJKE4bu1vfxXqD4mH1A/viewform)
 
 ## Markdown
 
