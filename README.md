@@ -1,7 +1,12 @@
 # CSST 2022: 使用 Markdown 和 LaTeX 成為筆記大師
 ## `nevikw39`
 
-上次課程的 [Feedback 表單](https://forms.gle/hNT7dobV7GXgUjA28), 填完之後有 shell demo codes 以及簡報連結喔。
+Quick links:
+- 首次課程的 [Feedback 表單](https://forms.gle/hNT7dobV7GXgUjA28)
+  - 填完之後有 terminal, shell 的 demo codes 以及簡報連結喔
+- [Slido](https://app.sli.do/event/164n12nYfuDgeEHi1thtp9)
+- [上課簡報](CSST2022.pdf)（另一個[連結](https://m110.nthu.edu.tw/~s110062219/CSST2022.pdf)）
+- [點名表單]()
 
 ## Markdown
 
